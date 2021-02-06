@@ -3,7 +3,6 @@ list1.reverse()
 print(list1)
 
 
-
 n = int(input('Write an integer'))
 mylist = list(range(0,n,2))
 print(mylist)
